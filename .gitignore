@@ -1,0 +1,7 @@
+config/prod.cfg
+*~
+*.pyc
+*.log
+*.db
+.ipynb*
+**/.hypothesis*

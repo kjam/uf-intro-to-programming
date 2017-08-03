@@ -1,0 +1,9 @@
+bokeh
+dataset
+faker
+hypothesis
+jupyter
+matplotlib
+pandas
+requests
+voluptuous
