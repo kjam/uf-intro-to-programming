@@ -1,2 +1,5 @@
 jupyterhub
+jupyterhub-systemdspawner
+lxml
 nbgrader
+oauthenticator
