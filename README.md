@@ -4,6 +4,12 @@ Welcome to the code repository for MMC6936: Introduction to Programming with Dat
 
 For more information on the course, please see the Canvas page.
 
+### Special Note
+
+The initial version of this course was 12 weeks instead of 16, meaning the numbers in these notebooks don't always match what you see on the video and might contain erroneous references to other modules if the number is used. Other than the name, the notebooks should be the same; so I hope this is not a source of great confusion.
+
+If you find an erroneous reference in these notebooks to another module, please let me know or feel free to send a pull request! :)
+
 ### Installation
 
 These lessons has been tested for Python 3.6 and primarily uses the latest release of each library, except where versions are pinned. You likely can run most of the code with older releases, but if you run into an issue, try upgrading the library in question first. 
