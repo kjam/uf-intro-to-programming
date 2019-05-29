@@ -1,6 +1,6 @@
-## University of Florida Audience Analytics: Introduction to Programming 
+## University of Florida Audience Analytics: Introduction to Programming
 
-Welcome to the code repository for MMC6936: Introduction to Programming with Data. 
+Welcome to the code repository for MMC6936: Introduction to Programming with Data.
 
 For more information on the course, please see the Canvas page.
 
@@ -12,9 +12,12 @@ If you find an erroneous reference in these notebooks to another module, please 
 
 ### Installation
 
-These lessons has been tested for Python 3.6 and primarily uses the latest release of each library, except where versions are pinned. You likely can run most of the code with older releases, but if you run into an issue, try upgrading the library in question first. 
+These lessons has been tested for Python 3.6 and primarily uses the latest release of each library, except where versions are pinned. You likely can run most of the code with older releases, but if you run into an issue, try upgrading the library in question first.
 
 First you will need to [install Conda for your OS](https://conda.io/docs/installation.html).
+
+You can also install all the requirements in Conda using the Conda Navigator.
+
 
 Then, to install all the requirements, we will setup a conda environment. You can do so and install all the requirements like so:
 
@@ -30,7 +33,7 @@ Then, when you want to run code you will need to make sure you are in your envir
 source activate py3data
 ```
 
-In addition, you will need to install [sqlite3](https://www.sqlite.org/) or make changes to the second day case study with a connection string to your database of choice. [more info](https://dataset.readthedocs.io/en/latest/quickstart.html#connecting-to-a-database)
+In addition, you will need to install [sqlite3](https://www.sqlite.org/). If you dont change the database string, then the case study will break.  [more info](https://dataset.readthedocs.io/en/latest/quickstart.html#connecting-to-a-database)
 
 ### Repository structure
 
@@ -46,4 +49,4 @@ If you find any issues in these code examples, feel free to submit an Issue or P
 
 ### Questions?
 
-Reach out to @kjam on Twitter or GitHub or via her UF email. 
+Reach out to @kjam on Twitter or GitHub or via her UF email.
