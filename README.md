@@ -33,7 +33,7 @@ Then, when you want to run code you will need to make sure you are in your envir
 source activate py3data
 ```
 
-In addition, you will need to install [sqlite3](https://www.sqlite.org/). If you dont change the database string, then the case study will break.  [more info](https://dataset.readthedocs.io/en/latest/quickstart.html#connecting-to-a-database)
+
 
 ### Repository structure
 
