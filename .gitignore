@@ -5,3 +5,4 @@ config/prod.cfg
 *.db
 .ipynb*
 **/.hypothesis*
+.DS_Store
