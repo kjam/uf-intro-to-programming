@@ -3,6 +3,7 @@ config/prod.cfg
 *.pyc
 *.log
 *.db
+*.cache/
 .ipynb*
 **/.hypothesis*
 .DS_Store
